@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Rolly",
+      "lastname": "Labuanan",
+      "email": "labuanan2023@gmail.com",
+      "contact": "096115",
+      "salary": "16000"
+    }
+  ],
+  "SignupUsers": [
+    {
+      "fullname": "Rolly Labuanan Jr",
+      "email": "labuanan2020@gmail.com",
+      "password": "Rolly2021",
+      "contact": 9611588123,
+      "id": 1
+    },
+    {
+      "fullname": "Rolly",
+      "email": "labuanan2020@gmail.com",
+      "password": "Rolly2021",
+      "contact": 5644,
+      "id": 2
+    },
+    {
+      "fullname": "Rolly",
+      "email": "labuanan2020@gmail.com",
+      "password": "Rolly2021",
+      "contact": 9611588123,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
